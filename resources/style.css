@@ -1,0 +1,31 @@
+html {
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  font-weight: normal;
+  color: white;
+  font-size: 50px;
+}
+
+h2 {
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+#link-text {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.camp-text {
+  font-size: 21px;
+  color: Gray;
+}
+
+.copyright {
+  text-align: right!important;
+}
